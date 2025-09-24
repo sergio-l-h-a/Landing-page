@@ -24,7 +24,7 @@ Criar uma página moderna, responsiva e funcional que represente minha trajetór
 - Incluir certificados e conquistas da DIO
 
 ## 📫 Contato
-- GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+- GitHub: GitHub: [github.com/sergio-l-h-a](https://github.com/sergio-l-h-a)
 - LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
 - Email: francisco@email.com
 
